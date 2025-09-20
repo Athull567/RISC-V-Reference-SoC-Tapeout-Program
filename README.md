@@ -1,5 +1,5 @@
 # RISC-V-Reference-SoC-Tapeout-Program
-🚀 VSD SoC Tapeout Program 
+## 🚀 VSD SoC Tapeout Program 
 
 My repository chronicles my hands-on experience in the VSD System-on-Chip Tapeout Program. It serves as a detailed log, tracking my progress on a weekly basis.
 
