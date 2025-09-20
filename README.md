@@ -27,8 +27,8 @@ Gratitude is also extended to RISC-V International, the India Semiconductor Miss
 
 ## 📊 Overall Progress
 - Week 0: Tools Setup ✅Completed
-- Week 1: RTL Design  ⏳Upcoming
-- Week 2: Synthesis   ⏳Upcoming
+- Week 1: RTL sim basics  ⏳Upcoming
+- Week 2: Synthesis & GLS   ⏳Upcoming
 
 ## 🌐Relevant Links
 - [VSD Program](https://vsdiat.vlsisystemdesign.com/)
